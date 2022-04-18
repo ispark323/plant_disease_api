@@ -1,0 +1,9 @@
+0 bacterial_canker-かいよう病
+1 bacterial_wilt-青枯病
+2 cercospora_leaf_mold-すすかび病
+3 gray_mold-灰色かび病
+4 healthy-健全
+5 late_blight-疫病
+6 leaf_mold-葉かび病
+7 powdery_mildew-うどんこ病
+8 yellow_leaf_curl-黄化葉巻病
